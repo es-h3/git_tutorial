@@ -18,3 +18,4 @@ def hello():
 
 Dette er en oppdatering for å prøve ut pull fra lokal git
 Denn endringen er gjort lokalt for å sjekke ut git push
+Mer oppdaterting lokalt
