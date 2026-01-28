@@ -15,3 +15,5 @@ Dette er kun for å huske litt hvordan GitHub og Git fungerer og md:
 def hello():
     print("Hei")
 ---
+
+Dette er en oppdatering for å prøve ut pull fra lokal git
