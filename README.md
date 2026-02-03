@@ -21,3 +21,4 @@ Denn endringen er gjort lokalt for å sjekke ut git push
 Mer oppdaterting lokalt
 Endamer oppdatering lokalt
 
+Tekst lagt til i branch nydev
