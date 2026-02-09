@@ -1,1 +1,1 @@
-Dette er oppdatert i Ubuntu (Wsl)
+Dette er oppdatert i Ubuntu (Wsl2)
